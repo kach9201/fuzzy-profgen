@@ -23,6 +23,5 @@ THEN I am prompted to enter the intern’s name, ID, email, and school, and I am
 WHEN I decide to finish building my team
 THEN I exit the application, and the HTML is generated
 
-Mock Up
-![img] (https://raw.githubusercontent.com/kach9201/fuzzy-profgen/main/img/Screenshot%20(7).png)
-![gif] (https://github.com/kach9201/fuzzy-profgen/blob/bc19c3d162bb335f15eef59a962682874f703ad5/img/Team%20Profile.gif)
+#GIF
+![](https://github.com/kach9201/fuzzy-profgen/blob/main/img/Team%20Profile.gif)
