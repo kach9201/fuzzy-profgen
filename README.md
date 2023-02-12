@@ -44,6 +44,10 @@ WHEN I decide to finish building my team
 
 THEN I exit the application, and the HTML is generated
 
+Mock Up
+
+![img](https://github.com/kach9201/fuzzy-profgen/blob/main/img/Screenshot%20(7).png)
+
 Walkthrough Video
 
 ![](https://github.com/kach9201/fuzzy-profgen/blob/main/img/Team%20Profile.gif)
