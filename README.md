@@ -24,4 +24,4 @@ WHEN I decide to finish building my team
 THEN I exit the application, and the HTML is generated
 
 Mock Up
-![image] [https://github.com/kach9201/fuzzy-profgen/blob/864374262bcfc93dbd702f0ab68d18a8e3ab0992/img/Screenshot%20(7).png](https://raw.githubusercontent.com/kach9201/fuzzy-profgen/main/img/Screenshot%20(7).png)
+![img] (https://raw.githubusercontent.com/kach9201/fuzzy-profgen/main/img/Screenshot%20(7).png)
